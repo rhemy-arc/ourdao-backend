@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "main",
+    "origin",
+    "rhema-implementations"
+  ],
+  "parent": {
+    "main": null,
+    "origin": "main",
+    "rhema-implementations": "main"
+  },
+  "order": [
+    "main",
+    "origin",
+    "rhema-implementations"
+  ]
+}
